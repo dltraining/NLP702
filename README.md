@@ -33,5 +33,6 @@
 | Teaching Week | Topic | Leture | Lab | Slides |
 | ----  | ------ | ------- | ------- | ------- |
 | 1 | Course Overview & Refresher on Classical Deep Learning Architectures  | Overview of research directions in key core NLP areas; Refresher on classical neural architectures (e.g., CNNs, RNNs, LSTMs, and GRUs) with example applications | [NumPy](tutorial/intro_to_numpy_pytorch/numpy_tutorial.ipynb); [PyTorch](tutorial/intro_to_numpy_pytorch/pytorch_tutorial.ipynb); [Practice text classification with attention-based RNNs](tutorial/text_classification_attention/rnn_attention_tutorial.ipynb) | [[slides](xx.pdf)] |
+| 2 | Transformer Variations  | Refresher on the Transformer; Long-document Transformers; Wide Transformers; Understanding the role of attention in the Transformer | [Transformer architecture](tutorial/transformer/transformer_tutorial.ipynb); [Longformer](tutorial/text_classification_Longformer/Longformer.ipynb) | [[slides](xx.pdf)] |
 
 
