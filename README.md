@@ -38,3 +38,4 @@
 | 4 | Foundation Models: Decoder-Only Models  | Generative Pretraining (GPT); OpenAI GPT series (GPT1, GPT2, and GPT3); Public autoregressive models (e.g., GPT-NeoX, OPT, BLOOM); Evaluating GPT models | [Pretraining of GPT2](tutorial/GPT); [Calculating perplexity](tutorial/perplexity/Perplexity_Tutorial.ipynb) |
 | 5 | Foundation Models: Encoder-Decoder Models  | Sequence-to-sequence learning; Encoder-decoder models (e.g., T5, BART, mT5, mBART); Evaluating encoder-decoder models | [Programming exercises using T5](tutorial/T5-fine-tuning) | 
 | 6 | Large-Scale Foundation Models  | Model distillation; Efficient Transformers| [Programming exercises using Hardware-aware Transformers](tutorial/HAT) | 
+| 7 | mid-term exam  | ---| --- | 
