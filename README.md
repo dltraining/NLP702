@@ -40,3 +40,4 @@
 | 6 | Large-Scale Foundation Models  | Model distillation; Efficient Transformers| [Programming exercises using Hardware-aware Transformers](tutorial/HAT) | 
 | 7 | mid-term exam  | ---| --- | 
 | 8 | Contrastive Learning  | Contrastive Learning | [Contrastive Learning](tutorial/contrastive_learning) | 
+| 9 | Prompting  | Prompting with large language model | [Prompting and few-sho learning](tutorial/prompt) | 
