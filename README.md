@@ -41,4 +41,4 @@
 | 7 | mid-term exam  | ---| --- | 
 | 8 | Contrastive Learning  | Contrastive Learning | [Contrastive Learning](tutorial/contrastive_learning) | 
 | 9 | Prompting  | Prompting with large language model | [Prompting and few-sho learning](tutorial/prompt) | 
-| 10 | Machine Translation  | Sequence-to-sequence Machine Translation | [Seq2seq+attention](tutorial/seq2seq_attention) | 
+| 10 | Machine Translation  | Sequence-to-sequence Machine Translation | [Seq2seq+attention](tutorial/seq2seq_attention), [T5 for Machine Translation](tutorial/T5_Translation)  | 
